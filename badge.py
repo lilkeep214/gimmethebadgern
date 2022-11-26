@@ -55,4 +55,4 @@ async def hello(interaction: Interaction):
 
 
 
-bot.run("OTMwODIyOTQwNTkxODEyNjE5.GoW9Ja.2B3l2FtJ0Qr1_ALoek8a7ETNt_vj6fCvT3BB24")
+bot.run("TOKEN OF YOUR BOT")
